@@ -1,1 +1,0 @@
-First attempt to connect to wifi and server will not work because the mac address hasnt been spoofed
